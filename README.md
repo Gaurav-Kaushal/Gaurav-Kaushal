@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀  
 You are visitor number:  
-![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=blue&style=flat&abbreviated=true)
 
 ---
 
