@@ -38,7 +38,6 @@ You are visitor number:
 ### Cloud Providers:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-[Add other providers...]
 
 ### Data Tools:
 
