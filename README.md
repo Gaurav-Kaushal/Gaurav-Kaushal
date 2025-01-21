@@ -8,9 +8,9 @@ You are visitor number:
 
 ## 💫 About Me:
 
-- 🔭 I’m currently exploring **Data Analysis**, **Data Engineering**, and **DevOps**.
-- 🌱 **Currently Learning**: Advanced **Kubernetes** features, **Cloud-Native Tools**, and **AI-powered DevOps solutions**.
-- 🤝 **Open to Collaboration**: Looking to contribute to impactful **open-source projects** or collaborate on exciting **DevOps initiatives**.
+- 🔭 I’m a **DevOps Engineer** with a strong foundation in **cloud infrastructure**, **Kubernetes**, and **CI/CD pipelines**.
+- 🌱 **Currently Learning**: Advanced **Kubernetes** features, **Cloud-Native Tools**, and **AI-powered DevOps solutions** along with Advanced **observability techniques**, **serverless technologies**, and **containerized workloads**.
+- 🤝 **Open to Collaboration**: Looking to contribute to impactful **open-source projects** or cutting edge **DevOps initiatives**.
 - 💡 **Fun Fact**: I’m passionate about automating repetitive tasks to make life easier!
 
 ---
@@ -45,6 +45,36 @@ You are visitor number:
 ![Airflow](https://img.shields.io/badge/airflow-%232C5263.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)  
 ![ETL Pipelines](https://img.shields.io/badge/etl-%234281c4.svg?style=for-the-badge&logo=logstash&logoColor=white)
 
+---
+
+## 🚀 Notable Projects:
+```
+1. Monitoring Infrastructure for Microservices
+
+- Designed a scalable monitoring solution using Prometheus and Grafana for microservice-based applications.
+
+- Centralized logging with EFK Stack, ensuring detailed insights for debugging and performance analysis.
+
+- Created alerting rules to proactively monitor service health and system metrics.
+
+2. CI/CD Pipeline Automation
+
+- Built CI/CD pipelines using Jenkins and ArgoCD, integrating automated testing and deployment workflows.
+
+- Implemented GitOps practices to manage Kubernetes deployments seamlessly.
+
+3. Security Automation
+
+- Developed scripts to automate vulnerability scanning for containerized workloads.
+
+- Integrated AWS GuardDuty for proactive threat detection and response.
+
+4. Application Modernization
+
+- Migrated legacy systems to containerized deployments using Docker and Helm.
+
+- Improved application scalability with AWS ECS and load-balanced services.
+```
 ---
 
 ## 📊 GitHub Stats:
