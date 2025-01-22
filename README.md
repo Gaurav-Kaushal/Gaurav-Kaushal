@@ -81,8 +81,9 @@ You are visitor number:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=radical&show_icons=true&hide_border=true&count_private=true)  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gaurav-Kaushal&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kaushal&theme=radical&hide_border=true)
+
 
 
 ---
