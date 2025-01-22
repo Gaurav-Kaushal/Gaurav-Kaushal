@@ -48,8 +48,8 @@ You are visitor number:
 ---
 
 ## 🚀 Notable Projects:
-```
-1. Monitoring Infrastructure for Microservices
+
+### 1. Monitoring Infrastructure for Microservices
 
 - Designed a scalable monitoring solution using Prometheus and Grafana for microservice-based applications.
 
@@ -57,24 +57,24 @@ You are visitor number:
 
 - Created alerting rules to proactively monitor service health and system metrics.
 
-2. CI/CD Pipeline Automation
+### 2. CI/CD Pipeline Automation
 
 - Built CI/CD pipelines using Jenkins and ArgoCD, integrating automated testing and deployment workflows.
 
 - Implemented GitOps practices to manage Kubernetes deployments seamlessly.
 
-3. Security Automation
+### 3. Security Automation
 
 - Developed scripts to automate vulnerability scanning for containerized workloads.
 
 - Integrated AWS GuardDuty for proactive threat detection and response.
 
-4. Application Modernization
+### 4. Application Modernization
 
 - Migrated legacy systems to containerized deployments using Docker and Helm.
 
 - Improved application scalability with AWS ECS and load-balanced services.
-```
+
 ---
 
 ## 📊 GitHub Stats:
