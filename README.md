@@ -103,7 +103,7 @@ Focused on **cloud-native tools, container orchestration, observability, and end
 - HashiCorp Certified: Terraform Associate  
 - Red Hat Certified Engineer (RHCE – DevOps)  
 - Certified Jenkins Engineer (CJE)  
-- GitLab Certified DevOps Professional  
+- Terraform Associate 
 - Monitoring & Logging with Prometheus, Grafana, ELK, and Loki  
 
 ---
