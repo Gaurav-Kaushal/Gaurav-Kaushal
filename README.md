@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&fontColor=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=e8edf2&height=100&section=header&fontColor=000000" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8edf2&height=100&section=header" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%" />
 
 <h1>Gaurav Kaushal</h1>
 
@@ -28,13 +24,9 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=558cf4&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=0d1117&style=flat-square&label=Profile+Views" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=e8edf2&height=60&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8edf2&height=60&section=footer" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%" />
 
 </div>
 
@@ -209,23 +201,11 @@ Led containerization efforts for application workloads — writing production Do
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=default&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=default&hide_border=true" />
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=github-dark-blue&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kaushal&theme=github_dark&hide_border=true&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kaushal&theme=default&hide_border=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kaushal&theme=default&hide_border=true&layout=compact" />
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kaushal&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
 
