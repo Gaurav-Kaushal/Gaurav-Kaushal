@@ -1,122 +1,216 @@
-# Hi there, I'm Gaurav Kaushal
-**Senior DevOps Engineer | Cloud | Kubernetes | CI/CD | Automation**
-Welcome to my GitHub profile!
-You are visitor number:  
-![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=blue&style=flat&abbreviated=true)
+<div align="center">
 
-I design scalable, automated, and secure infrastructure solutions that power modern applications.  
-Focused on **cloud-native tools, container orchestration, observability, and end-to-end DevOps pipelines**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%" />
+
+<h1>Gaurav Kaushal</h1>
+
+<p><strong>Senior DevOps Engineer</strong> &nbsp;|&nbsp; CI/CD &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; Infrastructure Automation &nbsp;|&nbsp; Cloud</p>
+
+<p>
+  <a href="https://linkedin.com/in/gauravkaushal1996">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://gauravkaushal.tech">
+    <img src="https://img.shields.io/badge/Blog-gauravkaushal.tech-111827?style=flat-square&logo=hashnode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@TechwithMrKay?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Tech_with_MrKay-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Gaurav-Kaushal">
+    <img src="https://img.shields.io/badge/GitHub-Gaurav--Kaushal-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=0d1117&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%" />
+
+</div>
+
+---
+
+## About
+
+Senior DevOps Engineer with 8+ years in IT, currently deployed at **Optum / UHG** via Artech LLC.
+I build and manage large-scale infrastructure — physical server fleets, automated CI/CD pipelines, artifact management, and internal tooling that teams rely on.
+
+My focus areas: **infrastructure reliability**, **pipeline automation**, and **container orchestration**.
+Writing about DevOps at [gauravkaushal.tech](https://gauravkaushal.tech).
 
 ---
 
 ## Tech Stack
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?logo=microsoftazure&logoColor=white)
+#### CI/CD & GitOps
 
-### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?logo=helm&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-%23FF9900.svg?logo=amazon-ecs&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 
-### Web Servers / Proxies
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-%23100F0F.svg?logo=haproxy&logoColor=white)
+#### Containers & Orchestration
 
-### Infrastructure as Code (IaC)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
-![Chef](https://img.shields.io/badge/Chef-%23F68212.svg?logo=chef&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-%23FFAE1A.svg?logo=puppet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 
-### CI/CD Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-%23343434.svg?logo=circleci&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23F05033.svg?logo=argo&logoColor=white)
+#### Infrastructure as Code
 
-### Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-%23006699.svg?logo=elastic-stack&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-%2300BFA5.svg?logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?logo=datadog&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-%23005A95.svg?logo=nagios&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-%23D72E29.svg?logo=zabbix&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-F68212?style=flat-square&logo=chef&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300F.svg?logo=amazon-dynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+#### Cloud Platforms
 
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%2325A8E0.svg?logo=confluence&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### Scripting & Programming
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
+#### Monitoring & Observability
 
----
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00BFA5?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-005A95?style=flat-square&logo=nagios&logoColor=white)
 
-## Featured Projects
+#### Artifact & Source Management
 
-### Monitoring Infrastructure for Microservices
-- Designed a scalable monitoring solution using **Prometheus** and **Grafana**.  
-- Centralized logging with **EFK Stack**, ensuring insights for debugging and performance analysis.  
-- Created alerting rules to proactively monitor service health and system metrics.  
+![JFrog](https://img.shields.io/badge/JFrog_Artifactory-40BE46?style=flat-square&logo=jfrog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=flat-square&logo=bitbucket&logoColor=white)
 
-### CI/CD Pipeline Automation
-- Built **CI/CD pipelines** using **Jenkins** and **ArgoCD**, integrating automated testing and deployment workflows.  
-- Implemented **GitOps** practices to manage Kubernetes deployments seamlessly.  
+#### Scripting & Languages
 
-### Security Automation
-- Developed automation scripts for **container vulnerability scanning**.  
-- Integrated **AWS GuardDuty** for proactive threat detection and response.  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Application Modernization
-- Migrated **legacy systems** to containerized deployments using **Docker** and **Helm**.  
-- Improved application scalability with **AWS ECS** and load-balanced services.  
+#### Web Servers & Proxy
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-100F0F?style=flat-square&logo=haproxy&logoColor=white)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+#### Collaboration & Tooling
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## Currently Working On / Certifications in Progress
-
-- AWS Certified DevOps Engineer – Professional  
-- Microsoft Certified: Azure DevOps Engineer Expert  
-- Certified Kubernetes Administrator (CKA) & CKAD  
-- HashiCorp Certified: Terraform Associate  
-- Red Hat Certified Engineer (RHCE – DevOps)  
-- Certified Jenkins Engineer (CJE)  
-- Terraform Associate 
-- Monitoring & Logging with Prometheus, Grafana, ELK, and Loki  
+## Projects
 
 ---
+
+### Enterprise CI/CD Pipeline Modernization
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+
+Designed and maintained multi-stage Jenkins pipelines using shared Groovy libraries, serving multiple development teams across a large-scale on-premises environment. Migrated select workflows to GitHub Actions for teams adopting modern SCM practices, establishing reusable workflow templates to enforce consistency across repositories. Integrated automated build, test, and artifact promotion gates — reducing manual intervention in the release process and enforcing quality checks before any code reached staging or production.
+
+- Shared library architecture for Jenkins — reusable stages across projects with minimal duplication
+- Parallel execution stages reduced average pipeline runtime significantly
+- Branch-based promotion strategy: dev → staging → production with approval gates
+- Integrated Groovy-based notification hooks into team communication channels
+
+---
+
+### Artifact Lifecycle Management — JFrog Artifactory
+![JFrog](https://img.shields.io/badge/JFrog_Artifactory-40BE46?style=flat-square&logo=jfrog&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+Owned the JFrog Artifactory setup supporting multi-team build artifact management across a large physical server fleet. Configured local, remote, and virtual repositories for Maven, Docker, and generic artifact types. Implemented automated cleanup policies and retention rules to manage storage at scale. Integrated Artifactory as the single artifact source of truth for all Jenkins pipelines — eliminating unversioned binaries and reducing environment-specific deployment failures.
+
+- Repository layout and permission model for teams with isolated access controls
+- Automated promotion of release candidates between Artifactory repositories via Jenkins
+- Configured AQL-based cleanup policies to enforce artifact retention standards
+- Reduced deployment failures caused by untracked or mismatched binary versions
+
+---
+
+### Infrastructure Automation — Terraform & Ansible
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Built Terraform modules for repeatable infrastructure provisioning and Ansible playbooks for configuration management across a large fleet of on-premises Linux servers. Standardized server bootstrapping — OS hardening, package installation, user management, and service configuration — into idempotent playbooks that could be applied consistently across new and existing nodes. Eliminated manual SSH-based configuration drift that had accumulated over years of ad-hoc changes.
+
+- Modular Terraform structure with reusable components and remote state management
+- Ansible roles for OS baseline, application deployment, and compliance enforcement
+- Dynamic inventory integration for server fleet management without static host files
+- Drift detection runs integrated into the CI pipeline to flag config divergence early
+
+---
+
+### Observability Platform — Prometheus, Grafana & ELK
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00BFA5?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+
+Designed a centralized observability stack covering metrics, logs, and alerting for on-premises infrastructure and containerized workloads. Deployed Prometheus with custom exporters for application and system-level metrics. Built Grafana dashboards tailored to infrastructure teams, application owners, and on-call engineers — each with different signal density and alert context. Integrated Loki for log aggregation alongside ELK for long-term log search and audit requirements.
+
+- Custom recording rules and alerting rules in Prometheus with tiered severity routing
+- Grafana dashboards per service with SLI/SLO tracking panels
+- Alertmanager routing with escalation policies for critical infrastructure alerts
+- ELK pipeline for structured log ingestion, parsing, and retention management
+
+---
+
+### Containerization & Kubernetes Workload Management
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+Led containerization efforts for application workloads — writing production Dockerfiles with multi-stage builds, managing Helm charts for repeatable Kubernetes deployments, and enforcing resource requests/limits, health probes, and rolling update strategies across services. Implemented GitOps-based continuous delivery using ArgoCD, syncing cluster state with Git as the source of truth and eliminating manual kubectl apply workflows from production.
+
+- Multi-stage Dockerfiles with minimal final images and non-root user enforcement
+- Helm chart structure with environment-specific value overrides (dev/staging/prod)
+- ArgoCD application definitions with automated sync and self-healing policies
+- Kubernetes RBAC, namespace isolation, and NetworkPolicy configuration for multi-team clusters
+
+---
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=radical&show_icons=true&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=radical&hide_border=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Kaushal&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav-Kaushal&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kaushal&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravkaushal1996)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.gauravkaushal.dev)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Gaurav-Kaushal)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@TechwithMrKay?sub_confirmation=1)
+<div align="center">
+<sub>Open to Senior DevOps Engineer roles globally &nbsp;|&nbsp; Based in India &nbsp;|&nbsp; Relocation-ready</sub>
+</div>
