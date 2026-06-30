@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=header" width="100%" />
 
 <h1>Gaurav Kaushal</h1>
 
@@ -26,7 +26,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Gaurav-Kaushal&color=0d1117&style=flat-square&label=Profile+Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=60&section=footer" width="100%" />
 
 </div>
 
@@ -121,8 +121,6 @@ Writing about DevOps at [gauravkaushal.tech](https://gauravkaushal.tech).
 
 ## Projects
 
----
-
 ### Enterprise CI/CD Pipeline Modernization
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
@@ -131,10 +129,10 @@ Writing about DevOps at [gauravkaushal.tech](https://gauravkaushal.tech).
 
 Designed and maintained multi-stage Jenkins pipelines using shared Groovy libraries, serving multiple development teams across a large-scale on-premises environment. Migrated select workflows to GitHub Actions for teams adopting modern SCM practices, establishing reusable workflow templates to enforce consistency across repositories. Integrated automated build, test, and artifact promotion gates — reducing manual intervention in the release process and enforcing quality checks before any code reached staging or production.
 
-- Shared library architecture for Jenkins — reusable stages across projects with minimal duplication
-- Parallel execution stages reduced average pipeline runtime significantly
-- Branch-based promotion strategy: dev → staging → production with approval gates
-- Integrated Groovy-based notification hooks into team communication channels
+- Shared library architecture for Jenkins — reusable stages across 10+ projects with minimal duplication
+- Parallel execution stages cut average pipeline runtime by ~65%, from 40+ minutes to under 15
+- Branch-based promotion strategy: dev → staging → production with mandatory approval gates
+- Groovy-based notification hooks wired into team channels, reducing delayed-failure detection
 
 ---
 
@@ -145,10 +143,10 @@ Designed and maintained multi-stage Jenkins pipelines using shared Groovy librar
 
 Owned the JFrog Artifactory setup supporting multi-team build artifact management across a large physical server fleet. Configured local, remote, and virtual repositories for Maven, Docker, and generic artifact types. Implemented automated cleanup policies and retention rules to manage storage at scale. Integrated Artifactory as the single artifact source of truth for all Jenkins pipelines — eliminating unversioned binaries and reducing environment-specific deployment failures.
 
-- Repository layout and permission model for teams with isolated access controls
-- Automated promotion of release candidates between Artifactory repositories via Jenkins
-- Configured AQL-based cleanup policies to enforce artifact retention standards
-- Reduced deployment failures caused by untracked or mismatched binary versions
+- Repository layout and permission model supporting 10+ teams with isolated access controls
+- Automated promotion of release candidates between Artifactory repositories via Jenkins pipelines
+- AQL-based cleanup policies reclaimed significant storage across a 500+ server fleet
+- Eliminated deployment failures caused by untracked or mismatched binary versions
 
 ---
 
@@ -160,10 +158,10 @@ Owned the JFrog Artifactory setup supporting multi-team build artifact managemen
 
 Built Terraform modules for repeatable infrastructure provisioning and Ansible playbooks for configuration management across a large fleet of on-premises Linux servers. Standardized server bootstrapping — OS hardening, package installation, user management, and service configuration — into idempotent playbooks that could be applied consistently across new and existing nodes. Eliminated manual SSH-based configuration drift that had accumulated over years of ad-hoc changes.
 
-- Modular Terraform structure with reusable components and remote state management
-- Ansible roles for OS baseline, application deployment, and compliance enforcement
-- Dynamic inventory integration for server fleet management without static host files
-- Drift detection runs integrated into the CI pipeline to flag config divergence early
+- Modular Terraform structure with reusable components, managing 500+ on-premises Linux servers
+- Ansible roles for OS baseline, application deployment, and compliance enforcement across the fleet
+- Dynamic inventory eliminated all static host files, cutting onboarding time for new nodes
+- Drift detection runs integrated into the CI pipeline, flagging config divergence before it reached production
 
 ---
 
@@ -175,10 +173,10 @@ Built Terraform modules for repeatable infrastructure provisioning and Ansible p
 
 Designed a centralized observability stack covering metrics, logs, and alerting for on-premises infrastructure and containerized workloads. Deployed Prometheus with custom exporters for application and system-level metrics. Built Grafana dashboards tailored to infrastructure teams, application owners, and on-call engineers — each with different signal density and alert context. Integrated Loki for log aggregation alongside ELK for long-term log search and audit requirements.
 
-- Custom recording rules and alerting rules in Prometheus with tiered severity routing
-- Grafana dashboards per service with SLI/SLO tracking panels
-- Alertmanager routing with escalation policies for critical infrastructure alerts
-- ELK pipeline for structured log ingestion, parsing, and retention management
+- Custom recording and alerting rules in Prometheus covering 30+ services, with tiered severity routing
+- Grafana dashboards for 20–30 services, tailored to infra teams, app owners, and on-call engineers
+- Alertmanager escalation policies reduced mean time to acknowledge critical alerts
+- ELK pipeline handling structured log ingestion, parsing, and retention for audit compliance
 
 ---
 
@@ -190,10 +188,10 @@ Designed a centralized observability stack covering metrics, logs, and alerting 
 
 Led containerization efforts for application workloads — writing production Dockerfiles with multi-stage builds, managing Helm charts for repeatable Kubernetes deployments, and enforcing resource requests/limits, health probes, and rolling update strategies across services. Implemented GitOps-based continuous delivery using ArgoCD, syncing cluster state with Git as the source of truth and eliminating manual kubectl apply workflows from production.
 
-- Multi-stage Dockerfiles with minimal final images and non-root user enforcement
-- Helm chart structure with environment-specific value overrides (dev/staging/prod)
-- ArgoCD application definitions with automated sync and self-healing policies
-- Kubernetes RBAC, namespace isolation, and NetworkPolicy configuration for multi-team clusters
+- Multi-stage Dockerfiles reducing final image sizes significantly, with non-root user enforcement
+- Helm chart structure with environment-specific value overrides across dev/staging/prod
+- ArgoCD GitOps delivery eliminated manual kubectl apply workflows from production entirely
+- Kubernetes RBAC, namespace isolation, and NetworkPolicy enforced across multi-team clusters
 
 ---
 
@@ -212,5 +210,5 @@ Led containerization efforts for application workloads — writing production Do
 ---
 
 <div align="center">
-<sub>Open to Senior DevOps Engineer roles globally &nbsp;|&nbsp; Based in India &nbsp;|&nbsp; Relocation-ready</sub>
+<sub>Senior DevOps Engineer &nbsp;|&nbsp; Open to global roles &nbsp;|&nbsp; Based in India, relocation-ready &nbsp;|&nbsp; <a href="mailto:gauravkaushal1996@gmail.com">Get in touch</a></sub>
 </div>
